@@ -1,16 +1,16 @@
-# ecomwithapi
+# Product Data Integration with REST API in Flutter
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This Flutter application demonstrates how to fetch and display product data from a REST API using GetX for state management.
 
-This project is a starting point for a Flutter application.
+![App Screenshot](https://github.com/user-attachments/assets/54b66a06-8438-456b-97f4-6f7cf4f3a3e8)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Fetches product data from a REST API
+- Utilizes GetX for efficient state management
+- Displays products in a visually appealing list
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+This README provides a comprehensive overview of your Flutter app, making it easy for users to understand, setup, and use your project.
