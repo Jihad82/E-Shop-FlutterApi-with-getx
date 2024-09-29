@@ -17,4 +17,3 @@ This Flutter application demonstrates how to fetch and display product data from
 - Displays products in a visually appealing list
 
 
-This README provides a comprehensive overview of your Flutter app, making it easy for users to understand, setup, and use your project.
